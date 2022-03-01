@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+
+    <string name="pelicula1">Aladin</string>
+    <string name="pelicula2">Malefica</string>
+    <string name="pelicula3">Ratatouille</string>
+    <string name="pelicula4">Shrek</string>
+    <string name="pelicula5">Titanic</string>
+
+    <string name="duracion1">120 min</string>
+    <string name="duracion2">130 min</string>
+    <string name="duracion3">140 min</string>
+    <string name="duracion4">110 min</string>
+    <string name="duracion5">180 min</string>
+
+
+    <string name="pelicula1_desc">Aladdin es un ladronzuelo que se enamora de la hija del Sultán, la princesa Jasmine. Para poder conquistarla aceptará un desafío de Jafar. Aladdín tendrá que entrar en una cueva en mitad del desierto y conseguir una lámpara mágica que contiene al Genio que será el encargado de concederle todos sus deseos.</string>
+    <string name="pelicula2_desc">Crece en un entorno idílico, un apacible reino en el bosque, hasta que un día un ejército de invasores humanos pone en peligro la armonía del país. Maléfica se erige en la temible protectora de su reino, pero al final es objeto de una despiadada traición que endurecerá su corazón hasta convertirlo en piedra.</string>
+    <string name="pelicula3_desc">Remy es una rata con un gran paladar y no se conforma con escarbar en la basura. Su objetivo es ser chef en uno de los mejores restaurantes de París. Su sueño se hará realidad al ayudar a Linguini, un joven cocinero, a conservar su empleo en ese restaurante.</string>
+    <string name="pelicula4_desc">Érase una vez un ogro verde llamado Shrek que vivía en un pantano muy lejano, feliz con sus baños de barro y su particular concepto de la higiene. Pero un buen día, su preciada soledad se ve interrumpida por la invasión de un grupo de molestos personajes salidos de cuentos clásicos.</string>
+    <string name="pelicula5_desc">una epopeya romántica,​​ relata la relación de Jack Dawson y Rose DeWitt Bukater, dos jóvenes que se conocen y se enamoran a bordo del transatlántico RMS Titanic en su viaje inaugural desde Southampton (Inglaterra) a Nueva York (EE. UU.) en abril de 1912.</string>
+</resources>
