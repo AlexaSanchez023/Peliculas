@@ -1,13 +1,13 @@
 package sanchez.alexa.peliculas
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.BaseAdapter
 import android.widget.ImageView
 import android.widget.TextView
-import java.security.AccessControlContext
 
 class AdaptadorPeliculas: BaseAdapter {
     lateinit var contexto: Context
@@ -45,6 +45,14 @@ class AdaptadorPeliculas: BaseAdapter {
         img.setImageResource(peli.img)
         nom.setText(peli.nombre)
         dur.setText(peli.dur)
+
+        vista.setOnClickListener {
+            val intent: Intent = Intent(contexto, PeliculaActivity::class.java)
+            intent.putExtra("imagen",peli.img)
+            intent.putExtra("name",peli.nombre)
+            intent.putExtra("sinopsis",peli.sinopsis)
+            contexto.startActivity(intent)
+        }
 
         return vista
     }

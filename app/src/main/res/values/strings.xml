@@ -19,4 +19,34 @@
     <string name="pelicula3_desc">Remy es una rata con un gran paladar y no se conforma con escarbar en la basura. Su objetivo es ser chef en uno de los mejores restaurantes de París. Su sueño se hará realidad al ayudar a Linguini, un joven cocinero, a conservar su empleo en ese restaurante.</string>
     <string name="pelicula4_desc">Érase una vez un ogro verde llamado Shrek que vivía en un pantano muy lejano, feliz con sus baños de barro y su particular concepto de la higiene. Pero un buen día, su preciada soledad se ve interrumpida por la invasión de un grupo de molestos personajes salidos de cuentos clásicos.</string>
     <string name="pelicula5_desc">una epopeya romántica,​​ relata la relación de Jack Dawson y Rose DeWitt Bukater, dos jóvenes que se conocen y se enamoran a bordo del transatlántico RMS Titanic en su viaje inaugural desde Southampton (Inglaterra) a Nueva York (EE. UU.) en abril de 1912.</string>
+
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alexa Mavely Sanchez</string>
+    <string name="nav_header_subtitle">mavelysanchez23@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="serie1">Outlander</string>
+    <string name="serie2">Game of thrones</string>
+    <string name="serie3">Dark</string>
+    <string name="serie4">Euphoria</string>
+    <string name="serie5">One Piece</string>
+
+    <string name="temporadas1">6 temporadas</string>
+    <string name="temporadas2">8 temporadas</string>
+    <string name="temporadas3">4 temporadas</string>
+    <string name="temporadas4">2 temporadas</string>
+    <string name="temporadas5">26 temporadas</string>
+
+    <string name="sinopsis1">Tras la II Guerra Mundial, una enfermera se verá dividida entre dos vidas y dos amores tras ser transportada 200 años atrás durante una ceremonia mística en Escocia.</string>
+    <string name="sinopsis2">En un mundo fantástico y en un contexto medieval varias familias, relativas a la nobleza, se disputan el poder para dominar el territorio ficticio de Poniente (Westeros) y tomar el control de los Siete Reinos desde el Trono de Hierro, lugar donde el rey ejerce el poder.</string>
+    <string name="sinopsis3">La desaparición de un niño lleva a cuatro familias a una frenética búsqueda, mientras descubren un misterio que abarca tres generaciones</string>
+    <string name="sinopsis4">Esta historia que se enmarca dentro del género dramático sigue a un grupo de adolescentes estudiantes de secundaria, que sumergidos en el fatídico mundo de las drogas, el sexo y la violencia tratan de luchar contra esos monstruos para enfrentarse a un nuevo futuro.</string>
+    <string name="sinopsis5">One Piece es la historia de un chico llamado Monkey D. Luffy, quién se inspiró en Shanks, un pirata que le salvó la vida, para convertirse en el Rey de los Piratas. Al comienzo de la serie, veinticuatro años antes de la historia actual, un pirata llamado Gol D. Roger</string>
+
+    <string name="menu_home">Peliculas</string>
+    <string name="menu_gallery">Series</string>
+    <string name="menu_slideshow">Favoritos</string>
 </resources>
